@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
+	sat "github.com/tokopedia/golang-sat"
 )
 
 type callbackExample struct{}

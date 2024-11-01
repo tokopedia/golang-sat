@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	sat "github.com/tokopedia/golang-sat"
+	"github.com/tokopedia/golang-sat/signature"
 )
 
 func main() {

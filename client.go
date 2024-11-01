@@ -17,8 +17,8 @@ import (
 	"time"
 
 	"github.com/google/jsonapi"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/logger"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	"github.com/tokopedia/golang-sat/logger"
+	"github.com/tokopedia/golang-sat/signature"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/clientcredentials"
 )
