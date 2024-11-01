@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
+	sat "github.com/tokopedia/golang-sat"
 )
 
 type integrationExample struct {

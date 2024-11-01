@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	"github.com/tokopedia/golang-sat/signature"
 )
 
 // Option contains field you can configure based on your SAT credentials

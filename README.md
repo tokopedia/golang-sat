@@ -40,7 +40,7 @@ Server -->> Client: Response the current order status
 #### Install Library
 Since this SDK still on development stage, you can install the library by using this command.
 ```
-go get github.com/tokopedia/digital-b2b-client-library/golang-sat@master
+go get github.com/tokopedia/golang-sat
 ```
 
 
@@ -55,8 +55,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	"github.com/tokopedia/golang-sat"
+	"github.com/tokopedia/golang-sat/signature"
 )
 
 func main() {
@@ -98,8 +98,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	"github.com/tokopedia/golang-sat"
+	"github.com/tokopedia/golang-sat/signature"
 )
 
 func main() {
@@ -206,7 +206,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat"
+	"github.com/tokopedia/golang-sat"
 )
 
 type callbackExample struct{}

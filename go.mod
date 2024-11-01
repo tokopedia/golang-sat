@@ -1,4 +1,4 @@
-module github.com/tokopedia/digital-b2b-client-library/golang-sat
+module github.com/tokopedia/golang-sat
 
 go 1.18
 

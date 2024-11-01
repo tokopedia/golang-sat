@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/google/jsonapi"
-	"github.com/tokopedia/digital-b2b-client-library/golang-sat/signature"
+	"github.com/tokopedia/golang-sat/signature"
 )
 
 const (
